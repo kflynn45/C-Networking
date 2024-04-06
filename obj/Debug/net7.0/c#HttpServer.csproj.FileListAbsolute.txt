@@ -1,0 +1,14 @@
+/Users/kevin/wip/c#HttpServer/bin/Debug/net7.0/c#HttpServer
+/Users/kevin/wip/c#HttpServer/bin/Debug/net7.0/c#HttpServer.deps.json
+/Users/kevin/wip/c#HttpServer/bin/Debug/net7.0/c#HttpServer.runtimeconfig.json
+/Users/kevin/wip/c#HttpServer/bin/Debug/net7.0/c#HttpServer.dll
+/Users/kevin/wip/c#HttpServer/bin/Debug/net7.0/c#HttpServer.pdb
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.AssemblyInfoInputs.cache
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.AssemblyInfo.cs
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.csproj.CoreCompileInputs.cache
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.dll
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/refint/c#HttpServer.dll
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.pdb
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/c#HttpServer.genruntimeconfig.cache
+/Users/kevin/wip/c#HttpServer/obj/Debug/net7.0/ref/c#HttpServer.dll
